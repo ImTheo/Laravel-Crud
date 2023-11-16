@@ -1,0 +1,33 @@
+{
+    // Agrega una barra de búsqueda al sidebar de directorios
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.tree.indent": 15,
+
+    // Muestra el nombre completo de los directorios en el sidebar de directorios
+    "workbench.view.explorer.showFullPathInFolderTree": true,
+
+    // Oculta los archivos ocultos en el sidebar de directorios
+    "workbench.view.explorer.showHiddenFiles": false,
+
+    // Agrega una barra de marcadores al sidebar de directorios
+    "workbench.view.explorer.showBookmarks": true,
+
+    // Agrega una barra de favoritos al sidebar de directorios
+    "workbench.view.explorer.showFavorites": true,
+
+    // Habilita el desplazamiento horizontal en el sidebar de directorios
+    "workbench.list.horizontalScrolling": true,
+
+    // Personaliza los colores del sidebar de directorios
+    "workbench.colorCustomizations": {
+        
+        // El color del fondo del sidebar de directorios
+        "workbench.view.explorer.background": "#ffffff",
+
+        // El color de los iconos del sidebar de directorios
+        "workbench.view.explorer.iconColor": "#000000",
+
+        // El color de los nombres de los directorios en el sidebar de directorios
+        "workbench.view.explorer.folderTree.text": "#000000",
+    }
+}
